@@ -1,5 +1,5 @@
-- In this project I have used Fashion mnist dataset which you can get it from Kaggle --> https://www.kaggle.com/datasets/zalando-research/fashionmnist
-- This dataset contains total 60,000 Images of T-shirts, Pants, Bags and shoes, out of which I have used only 6000 Images to because I was planning to run this ANN model on CPU.
-- While running this ANN model on CPU we got approx, 82%-83% accuracy.
+- In this project, I used the Fashion MNIST dataset, which can be found on Kaggle: https://www.kaggle.com/datasets/zalando-research/fashionmnist
+- The dataset contains a total of 60,000 images of T-shirts, pants, bags, and shoes. However, I used only 6,000 images since I planned to run the ANN model on a CPU.
+- When training the model on a CPU, we achieved approximately 82%–83% accuracy.
   
-Note: If you want to train model with 60,000 Images you need GPU.
+Note: If you want to train the model with all 60,000 images, a GPU is recommended.
